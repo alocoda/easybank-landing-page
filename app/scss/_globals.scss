@@ -17,10 +17,10 @@ body {
   font-weight: 300;
   color: $grayishBlue;
   line-height: 1.3;
-}
 
-&.noscroll {
-  overflow: hidden;
+  &.noscroll {
+    overflow: hidden;
+  }
 }
 
 a,
