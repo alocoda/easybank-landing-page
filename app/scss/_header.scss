@@ -28,7 +28,7 @@
 
   nav {
     position: relative;
-    background-color: $white;;
+    background-color: $white;
     padding-top: 1.0625rem;
     padding-bottom: 1.0625rem;
   }
@@ -106,16 +106,6 @@
           opacity: 1;
         }
       }
-    }
-  }
-
-  &__cta {
-    font-size: $font-sm;
-    color: $white;
-    transition: opacity 300ms ease-in-out;
-
-    &:hover {
-      opacity: 0.75;
     }
   }
 }
