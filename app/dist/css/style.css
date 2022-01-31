@@ -828,4 +828,20 @@ button:hover::before,
         justify-self: end;
   }
 }
+
+.footer .attribution {
+  color: #9698a6;
+  font-size: 0.875rem;
+  margin-top: 4rem;
+  -webkit-transition: color 150ms ease-in-out;
+  transition: color 150ms ease-in-out;
+}
+
+.footer .attribution a {
+  color: white;
+}
+
+.footer .attribution a:hover {
+  color: #31d35c;
+}
 /*# sourceMappingURL=style.css.map */

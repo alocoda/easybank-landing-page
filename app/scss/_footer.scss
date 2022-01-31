@@ -122,4 +122,17 @@
       justify-self: end;
     }
   }
+
+  .attribution {
+    color: $grayishBlue;
+    font-size: 0.875rem;
+    margin-top: 4rem;
+    transition: color 150ms ease-in-out;
+
+    a {
+      color: $white;
+
+      &:hover: $limeGreen;
+    }
+  }
 }
